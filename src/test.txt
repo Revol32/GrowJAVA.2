@@ -1,3 +1,2 @@
 mastercommit1
 branch2
-pull
